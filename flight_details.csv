@@ -1,0 +1,319 @@
+Flight,Depart time,Arrival time,Journey duration,Price
+"IndiGo
+6E-2117/6E-5265",10:55,16:45,5h 50m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['4,736', '5,318', '5,393', '']}"
+"IndiGo
+6E-2216/6E-5232",05:10,09:50,4h 40m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['4,763', '5,345', '5,393', '']}"
+"IndiGo
+6E-2187/6E-5285",15:45,20:45,5h 00m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['4,763', '5,345', '5,393', '']}"
+"IndiGo
+6E-2042/6E-5226",18:40,01:05,6h 25m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,275', '5,857', '5,905', '']}"
+"IndiGo
+6E-2204/6E-5226",16:50,01:05,8h 15m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,275', '5,857', '5,905', '']}"
+"IndiGo
+6E-2766",03:45,05:40,1h 55m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,533', '5,927', '6,115', '']}"
+"IndiGo
+6E-395",21:00,23:15,2h 15m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,533', '5,927', '6,115', '']}"
+"AirIndia Express
+I5-743/I5-762",05:00,11:30,6h 30m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['5,650', '6,232']}"
+"Multiple Airline
+IX-2789/I5-670",10:50,19:55,9h 05m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['5,650', '6,232']}"
+"AirIndia Express
+I5-743/I5-670",05:00,19:55,14h 55m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['5,650', '6,232']}"
+"Vistara
+UK-979/UK-956",13:30,19:00,5h 30m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-929/UK-918",21:25,06:15,8h 50m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-969/UK-918",18:00,06:15,12h 15m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-959/UK-956",06:30,19:00,12h 30m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-929/UK-936",21:25,09:55,12h 30m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-969/UK-936",18:00,09:55,15h 55m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-979/UK-918",13:30,06:15,16h 45m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-979/UK-936",13:30,09:55,20h 25m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"Vistara
+UK-929/UK-956",21:25,19:00,21h 35m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['5,652', '6,234', '6,626', '']}"
+"IndiGo
+6E-2013/6E-912",23:00,04:25,5h 25m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,715', '6,297', '6,920', '']}"
+"SpiceJet
+SG-8269",20:15,22:30,2h 15m,"{'Offer': ['Spice Saver', 'Spice Flex', 'Best Value', ''], 'Price': ['5,769', '6,293', '6,351', '']}"
+"AirIndia Express
+IX-2784",18:55,22:50,3h 55m,"{'Offer': ['Xpress Value', 'Best Value', 'Xpress Biz'], 'Price': ['5,799', '6,381', '20,020']}"
+"Akasa Air
+QP-1411",10:50,13:05,2h 15m,"{'Offer': ['Saver Fare', 'Flexi Fare', 'Best Value'], 'Price': ['5,845', '6,244', '6,427']}"
+"Akasa Air
+QP-1128",16:00,18:20,2h 20m,"{'Offer': ['Saver Fare', 'Flexi Fare', 'Best Value'], 'Price': ['5,845', '6,244', '6,427']}"
+"IndiGo
+6E-864",17:15,19:25,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,848', '6,242', '6,430', '']}"
+"IndiGo
+6E-354",19:15,21:25,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,848', '6,242', '6,430', '']}"
+"IndiGo
+6E-6114",22:15,00:25,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,848', '6,242', '6,430', '']}"
+"IndiGo
+6E-519",23:30,01:40,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,848', '6,242', '6,430', '']}"
+"IndiGo
+6E-6047",11:15,13:35,2h 20m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,848', '6,242', '6,430', '']}"
+"IndiGo
+6E-6016",20:00,22:20,2h 20m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,848', '6,242', '6,430', '']}"
+"IndiGo
+6E-5603/6E-5383",16:45,22:20,5h 35m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,848', '6,430', '6,478', '']}"
+"IndiGo
+6E-2013/6E-5182",23:00,05:25,6h 25m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,875', '6,457', '7,096', '']}"
+"IndiGo
+6E-5119/6E-2046",04:45,08:50,4h 05m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,894', '6,476', '7,424', '']}"
+"IndiGo
+6E-5119/6E-5125",04:45,09:50,5h 05m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,894', '6,476', '7,424', '']}"
+"IndiGo
+6E-6261/6E-533",06:10,11:55,5h 45m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,894', '6,476', '7,424', '']}"
+"IndiGo
+6E-5119/6E-533",04:45,11:55,7h 10m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['5,894', '6,476', '7,424', '']}"
+"IndiGo
+6E-6318",16:15,18:20,2h 05m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['5,953', '6,478', '6,535', '']}"
+"Akasa Air
+QP-1719",08:40,10:45,2h 05m,"{'Offer': ['Saver Fare', 'Flexi Fare', 'Best Value'], 'Price': ['6,027', '6,428', '6,609']}"
+"Air India
+AI-860",02:15,04:30,2h 15m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,028', '6,610', '6,658', '']}"
+"Air India
+AI-441",17:15,20:05,2h 50m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,028', '6,610', '6,658', '']}"
+"IndiGo
+6E-2237",06:00,07:55,1h 55m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"IndiGo
+6E-6814",07:00,08:55,1h 55m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"IndiGo
+6E-2716",02:00,04:00,2h 00m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"IndiGo
+6E-2676",14:10,16:10,2h 00m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"IndiGo
+6E-6107",09:00,11:05,2h 05m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"IndiGo
+6E-2169",08:00,10:10,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"IndiGo
+6E-6328",10:00,12:15,2h 15m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,058', '6,452', '6,640', '']}"
+"Air India
+AI-805",20:00,22:25,2h 25m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,133', '6,715', '6,868', '']}"
+"IndiGo
+6E-2327",18:15,20:20,2h 05m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,268', '6,793', '6,850', '']}"
+"IndiGo
+6E-449",05:00,07:10,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['6,268', '6,793', '6,850', '']}"
+"SpiceJet
+SG-709",19:55,22:00,2h 05m,"{'Offer': ['Spice Saver', 'Spice Flex', 'Best Value', ''], 'Price': ['6,399', '6,923', '6,981', '']}"
+"SpiceJet
+SG-8157",06:10,08:20,2h 10m,"{'Offer': ['Spice Saver', 'Spice Flex', 'Best Value', ''], 'Price': ['6,399', '6,923', '6,981', '']}"
+"IndiGo
+6E-2153/6E-912",20:55,04:25,7h 30m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,411', '6,993', '7,185', '']}"
+"IndiGo
+6E-2153/6E-5272",20:55,01:35,4h 40m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,516', '7,098', '7,185', '']}"
+"IndiGo
+6E-2096/6E-5272",19:10,01:35,6h 25m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,516', '7,098', '7,185', '']}"
+"Air India
+AI-624",19:10,21:20,2h 10m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,637', '7,219', '7,267', '']}"
+"Air India
+AI-856",14:45,17:00,2h 15m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,637', '7,219', '7,267', '']}"
+"Air India
+AI-605",21:20,23:35,2h 15m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,637', '7,219', '7,267', '']}"
+"Air India
+AI-814",22:30,00:45,2h 15m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,637', '7,219', '7,267', '']}"
+"Air India
+AI-665",08:00,10:20,2h 20m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,637', '7,219', '7,267', '']}"
+"Air India
+AI-678",09:00,11:20,2h 20m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,637', '7,219', '7,267', '']}"
+"IndiGo
+6E-2076/6E-533",07:20,11:55,4h 35m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,651', '7,233', '7,334', '']}"
+"IndiGo
+6E-2096/6E-5148",19:10,00:05,4h 55m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,651', '7,233', '7,334', '']}"
+"IndiGo
+6E-129/6E-803",13:25,19:40,6h 15m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,651', '7,233', '7,334', '']}"
+"Air India
+AI-865",10:45,13:05,2h 20m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,742', '7,324', '7,477', '']}"
+"IndiGo
+6E-2331/6E-803",12:00,19:40,7h 40m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,790', '7,372', '7,424', '']}"
+"IndiGo
+6E-129/6E-5139",13:25,18:25,5h 00m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,812', '7,394', '7,510', '']}"
+"Air India
+AI-817/AI-614",05:30,09:30,4h 00m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-493/AI-614",20:45,09:30,12h 45m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-531/AI-614",19:45,09:30,13h 45m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-835/AI-614",16:20,09:30,17h 10m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-481/AI-614",11:20,09:30,22h 10m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-493/AI-632",20:45,19:05,22h 20m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-531/AI-632",19:45,19:05,23h 20m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-423/AI-614",09:50,09:30,23h 40m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"Air India
+AI-835/AI-632",16:20,19:05,26h 45m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['6,911', '7,493', '7,545', '']}"
+"IndiGo
+6E-2331/6E-5139",12:00,18:25,6h 25m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['6,951', '7,533', '7,600', '']}"
+"Vistara
+UK-951",14:20,16:25,2h 05m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,057', '7,639', '8,054']}"
+"Vistara
+UK-933",15:30,17:35,2h 05m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,057', '7,639', '8,054']}"
+"Vistara
+UK-975",05:50,08:00,2h 10m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,057', '7,639', '8,054']}"
+"Vistara
+UK-963",08:55,11:10,2h 15m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,057', '7,639', '8,054']}"
+"IndiGo
+6E-6112/6E-5187",05:55,11:10,5h 15m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['7,057', '7,639', '8,023', '']}"
+"Air India
+AI-887",07:00,09:15,2h 15m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['7,267', '7,849', '8,369']}"
+"IndiGo
+6E-129/6E-649",13:25,20:50,7h 25m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['7,293', '7,875', '8,039', '']}"
+"Air India
+AI-819/AI-670",18:35,11:40,17h 05m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['7,297', '7,879', '8,140', '']}"
+"IndiGo
+6E-2009",12:30,14:40,2h 10m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['7,318', '7,712', '7,900', '']}"
+"Air India
+AI-469/AI-644",13:00,18:05,5h 05m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['7,347', '7,929', '8,401', '']}"
+"IndiGo
+6E-2172/6E-5083",15:05,23:20,8h 15m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['7,372', '7,954', '8,652', '']}"
+"Air India
+AI-553/AI-616",02:30,09:55,7h 25m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['7,586', '8,168', '8,479', '']}"
+"Air India
+AI-553/AI-618",02:30,14:50,12h 20m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['7,586', '8,168', '8,479', '']}"
+"Air India
+AI-553/AI-698",02:30,23:55,21h 25m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['7,586', '8,168', '8,479', '']}"
+"Multiple Airline
+I5-738/IX-2784",12:55,22:50,9h 55m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['7,625', '8,207']}"
+"IndiGo
+6E-6022",15:15,17:20,2h 05m,"{'Offer': ['Saver Fare', 'Flexi Plus', 'Best Value', ''], 'Price': ['7,633', '8,158', '8,215', '']}"
+"Vistara
+UK-879/UK-876",17:35,23:10,5h 35m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-899/UK-876",14:45,23:10,8h 25m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-879/UK-872",17:35,07:50,14h 15m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-879/UK-874",17:35,10:05,16h 30m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-899/UK-872",14:45,07:50,17h 05m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-871/UK-878",20:55,15:05,18h 10m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-899/UK-874",14:45,10:05,19h 20m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-879/UK-878",17:35,15:05,21h 30m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"Vistara
+UK-899/UK-878",14:45,15:05,24h 20m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['7,695', '8,277', '62,150']}"
+"IndiGo
+6E-5017/6E-5083",19:30,23:20,3h 50m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['7,721', '8,303', '9,740', '']}"
+"Air India
+AI-553/AI-652",02:30,18:35,16h 05m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['7,886', '8,468', '8,784', '']}"
+"Vistara
+UK-927",09:30,11:40,2h 10m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,897', '8,479', '8,894']}"
+"Vistara
+UK-993",12:50,15:00,2h 10m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,897', '8,479', '8,894']}"
+"Vistara
+UK-955",17:50,20:00,2h 10m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,897', '8,479', '8,894']}"
+"Vistara
+UK-985",19:45,22:00,2h 15m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['7,897', '8,479', '8,894']}"
+"IndiGo
+6E-2208/6E-6598",20:40,00:20,3h 40m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['8,022', '8,604', '8,652', '']}"
+"IndiGo
+6E-2376/6E-6598",17:40,00:20,6h 40m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['8,022', '8,604', '8,652', '']}"
+"Air India
+AI-435/AI-634",05:55,14:10,8h 15m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,032', '8,614', '9,085', '']}"
+"Multiple Airline
+IX-1711/I5-338",05:30,17:20,11h 50m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['8,106', '8,688']}"
+"Air India
+AI-433/AI-634",14:45,14:10,23h 25m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,242', '8,824', '9,295', '']}"
+"IndiGo
+6E-5016/6E-5184",09:20,15:55,6h 35m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['8,317', '8,899', '9,115', '']}"
+"Vistara
+UK-899/UK-534",14:45,19:35,4h 50m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Standard', ''], 'Price': ['8,325', '8,907', '9,270', '']}"
+"Air India
+AI-544/AI-698",17:00,23:55,6h 55m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,329', '8,911', '9,225', '']}"
+"Air India
+AI-839/AI-616",21:50,09:55,12h 05m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,329', '8,911', '9,225', '']}"
+"Air India
+AI-839/AI-618",21:50,14:50,17h 00m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,329', '8,911', '9,225', '']}"
+"Air India
+AI-544/AI-618",17:00,14:50,21h 50m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,329', '8,911', '9,225', '']}"
+"Air India
+AI-417/AI-698",14:45,23:55,9h 10m,"{'Offer': ['Comfort', 'Best Value', 'Comfort Plus', ''], 'Price': ['8,830', '9,412', '9,724', '']}"
+"Vistara
+UK-981",21:30,23:40,2h 10m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['9,157', '9,739', '10,154']}"
+"Vistara
+UK-943",07:30,09:45,2h 15m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['9,157', '9,739', '10,154']}"
+"Vistara
+UK-995",10:20,12:35,2h 15m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['9,157', '9,739', '10,154']}"
+"Vistara
+UK-941",16:50,19:05,2h 15m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['9,157', '9,739', '10,154']}"
+"Vistara
+UK-977",19:00,21:15,2h 15m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['9,157', '9,739', '10,154']}"
+"Vistara
+UK-957",20:40,23:05,2h 25m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['9,157', '9,739', '10,154']}"
+"Vistara
+UK-673/UK-622",13:20,18:30,5h 10m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['9,885', '10,467', '61,037']}"
+"IndiGo
+6E-2376/6E-552",17:40,22:10,4h 30m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['10,083', '10,665', '11,238', '']}"
+"IndiGo
+6E-5074/6E-2389",09:10,17:15,8h 05m,"{'Offer': ['Saver Fare', 'Best Value', 'Flexi Plus', ''], 'Price': ['10,293', '10,875', '11,448', '']}"
+"AirIndia Express
+I5-768/I5-334",14:50,21:45,6h 55m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['10,613', '11,195']}"
+"Multiple Airline
+IX-769/I5-334",14:00,21:45,7h 45m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['10,613', '11,195']}"
+"Vistara
+UK-999",21:55,00:15,2h 20m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['10,732', '11,314', '11,729']}"
+"Vistara
+UK-817/UK-840",16:05,23:20,7h 15m,"{'Offer': ['Eco Lite', 'Best Value', 'Eco Flexi'], 'Price': ['11,526', '12,108', '73,795']}"
+"Air India
+AI-514/AI-604",03:35,11:20,7h 45m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['12,171', '12,753', '14,590']}"
+"AirIndia Express
+I5-1534/I5-472",22:00,04:05,6h 05m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['12,200', '12,782']}"
+"Vistara
+UK-819/UK-840",13:55,23:20,9h 25m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['12,278', '12,860', '14,275']}"
+"Vistara
+UK-555/UK-588",12:25,17:10,4h 45m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['12,405', '12,987', '14,402']}"
+"Air India
+AI-807/AI-642",17:20,23:20,6h 00m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['12,801', '13,383', '15,220']}"
+"SpiceJet
+SG-476/SG-116",11:00,13:35,26h 35m,"{'Offer': ['Spice Saver', 'Best Value', 'Spice Max'], 'Price': ['12,852', '13,434', '16,108']}"
+"SpiceJet
+SG-495/SG-116",13:15,13:35,24h 20m,"{'Offer': ['Spice Saver', 'Best Value', 'Spice Max'], 'Price': ['13,168', '13,750', '16,422']}"
+"Air India
+AI-813/AI-622",08:00,13:55,5h 55m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['13,201', '13,783', '15,619']}"
+"Air India
+AI-803/AI-622",06:10,13:55,7h 45m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['13,201', '13,783', '15,619']}"
+"Air India
+AI-815/AI-642",15:45,23:20,7h 35m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['13,516', '14,098', '15,934']}"
+"Vistara
+UK-813/UK-840",17:40,23:20,5h 40m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['13,696', '14,278', '15,693']}"
+"Multiple Airline
+IX-779/I5-679",04:30,15:15,10h 45m,"{'Offer': ['Xpress Value', 'Best Value'], 'Price': ['13,795', '14,377']}"
+"Air India
+AI-401/AI-676",06:45,12:30,5h 45m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['13,811', '14,393', '16,339']}"
+"Air India
+AI-767/AI-775",12:20,19:15,6h 55m,"{'Offer': ['Comfort', 'Comfort Plus', 'Best Value', ''], 'Price': ['14,411', '14,938', '14,993', '']}"
+"Air India
+AI-502/AI-642",13:30,23:20,9h 50m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['14,432', '15,014', '16,848']}"
+"Vistara
+UK-737/UK-776",15:45,23:25,7h 40m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['14,639', '15,221', '16,638']}"
+"Air India
+AI-636",14:30,18:05,3h 35m,"{'Offer': ['Flex', 'Best Value'], 'Price': ['14,669', '15,251']}"
+"Air India
+AI-767/AI-773",12:20,20:50,8h 30m,"{'Offer': ['Comfort', 'Comfort Plus', 'Best Value', ''], 'Price': ['14,671', '15,011', '15,253', '']}"
+"Air India
+AI-502/AI-610",13:30,21:10,7h 40m,"{'Offer': ['Comfort Plus', 'Best Value', 'Flex'], 'Price': ['15,062', '15,644', '17,163']}"
+"Vistara
+UK-819/UK-854",13:55,20:15,6h 20m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['15,100', '15,682', '17,095']}"
+"Vistara
+UK-819/UK-850",13:55,21:55,8h 00m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['15,100', '15,682', '17,095']}"
+"Vistara
+UK-817/UK-850",16:05,21:55,5h 50m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['15,152', '15,734', '17,147']}"
+"Vistara
+UK-747/UK-772",06:15,12:55,6h 40m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['16,579', '17,161', '18,575']}"
+"Vistara
+UK-819/UK-864",13:55,20:55,7h 00m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['17,158', '17,740', '19,153']}"
+"Air India
+AI-821/AI-593",10:45,16:35,5h 50m,"{'Offer': ['Comfort', 'Comfort Plus', 'Best Value', ''], 'Price': ['18,992', '19,517', '19,574', '']}"
+"Vistara
+UK-707/UK-776",17:35,23:25,5h 50m,"{'Offer': ['Eco Standard', 'Best Value', 'Eco Flexi'], 'Price': ['20,959', '21,541', '22,954']}"

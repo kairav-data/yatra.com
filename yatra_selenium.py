@@ -68,6 +68,28 @@ def scrape_flight_data(origin_city, destination_city, departure_date):
 
         time.sleep(10)
 
+
+        # Scrolling down to the bottom of the page
+        while True:
+
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            # Wait for some time to let new content load
+            time.sleep(2)
+            # Capture current scroll position
+            current_scroll_position = driver.execute_script("return window.scrollY;")
+            # Scroll again
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            # Wait a bit for the scroll to take effect
+            time.sleep(2)
+            # Check if scroll position changed
+            new_scroll_position = driver.execute_script("return window.scrollY;")
+            if new_scroll_position == current_scroll_position:
+                # If scroll position didn't change, it means we reached the bottom of the page
+                break
+
+        # Wait for some time to let new content load
+        driver.implicitly_wait(5)
+
         # Extract the data
         flights = WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.XPATH, "//div[@class='flightItem border-shadow pr']"))
@@ -117,5 +139,6 @@ def scrape_flight_data(origin_city, destination_city, departure_date):
         # Close the driver
         driver.quit()
 
-# Example usage
-scrape_flight_data("Bangalore", "Mumbai", "20/06/2024")
+# Executing......
+
+scrape_flight_data("Banglore", "Mumbai", "20/06/2024")
